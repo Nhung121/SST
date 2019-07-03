@@ -1,0 +1,8 @@
+scipy
+matplotlib
+numpy
+pandas
+netCDF4
+jupyter
+ipykernel
+requests
